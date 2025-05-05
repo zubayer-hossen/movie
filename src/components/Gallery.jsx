@@ -1,10 +1,10 @@
 const Gallery = () => {
   const images = [
     '/images/borbad1.jpg',
-    '/images/borbad2.jpg',
-    '/images/borbad3.jpg',
-    '/images/borbad4.jpg',
-    '/images/borbad5.jpg'
+    '/images/.jpg',
+    '/images/.jpg',
+    '/images/.jpg',
+    '/images/.jpg'
   ];
 
   return (
